@@ -84,6 +84,6 @@ Initiated professional communication with all stakeholders and external customer
 
 # Hobbies
 
-| cycling | traveling | reading mystery books | gardening | DIY | baking & cooking |
+cycling, traveling, reading mystery books, gardening, DIY, baking & cooking
 
 <br>© Copyright 2020, Melinda Marian
