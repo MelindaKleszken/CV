@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <a href="https://codepen.io/lin5432/pens/public" target="_blank">
-<img src="https://cdn1.iconfinder.com/data/icons/simple-icons/2048/codepen-2048-black.png" alt="codepen" hspace="52" height="50" width="50"></a>
+<img src="https://cdn1.iconfinder.com/data/icons/simple-icons/2048/codepen-2048-white.png" alt="codepen" hspace="52" height="50" width="50"></a>
 <a href=https://www.linkedin.com/in/melindamarian/" target="_blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a href="https://melindamarian.com/" target="_blank">
