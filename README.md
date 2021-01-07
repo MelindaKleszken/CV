@@ -2,11 +2,11 @@
 
 <p align="center"> 
 <a href="https://codepen.io/lin5432/pens/public" target="_blank">
-<img src="https://cdn1.iconfinder.com/data/icons/simple-icons/2048/codepen-2048-white.png" alt="codepen" hspace="52" height="50" width="50"></a>
+<img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-White-Large.png" alt="codepen" hspace="52" height="50" width="50"></a>
 <a href=https://www.linkedin.com/in/melindamarian/" target="_blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a href="https://melindamarian.com/" target="_blank">
-<img src="https://image.flaticon.com/icons/png/512/102/102269.png" alt="portfolio" hspace="50" height="42" width="42"></a></p>
+<img src="https://flaticons.net/custom.php?i=YkxCzyT05DMwibIVIeIxbhpeqkyI7" alt="portfolio" hspace="50" height="42" width="42"></a></p>
 
 A passionate, focused technologist and practical problem solver with design work experience in the logistics and supply chain environment working for Puma Teamwear, UK. I am an AWS Certified Cloud Practitioner who is also progressing towards Microsoft Azure Fundamental certification. I have a demonstrable track record in planning and prioritising my workload both on an individual level and as part of a team. My Bachelor's degree in Spatial Planning alongside my Master’s degree in GIS Assisted Spatial Management and Planning was gained at the University of Oradea.
 
