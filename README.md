@@ -2,9 +2,9 @@
 
 <p align="center"> 
 <a href="https://codepen.io/lin5432/pens/public" target="_blank">
-<img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-White-Large.png" alt="codepen" hspace="52" height="50" width="50"></a>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/codepen-icon-logo-black-and-white.png" alt="codepen" hspace="52" height="50" width="50"></a>
 <a href=https://www.linkedin.com/in/melindamarian/" target="_blank">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/codepen-icon-logo-black-and-white.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="https://s2.qwant.com/thumbr/0x380/c/9/f32a81899f9eede1b1777687471a5baa8b765d9f57a7e2089ba31dd1ae1d15/logo-linkedin-icon-4096.png?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flinkedin%2Flogo-linkedin-icon-4096.png&q=0&b=1&p=0&a=1" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a href="https://melindamarian.com/" target="_blank">
 <img src="https://www.iconsdb.com/icons/preview/white/document-xxl.png" alt="portfolio" hspace="50" height="42" width="42"></a></p>
 
